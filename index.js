@@ -1,8 +1,8 @@
 // write your code below!
-let name='Dan';
+let name='Dan'
 function happyHolidays(string){
   return "Happy holidays!"
 }
 function happyHolidaysTo(name){
-  console.log(`Happy holidays, ${name}!`)
+  return`Happy holidays, ${name}!`
 }
