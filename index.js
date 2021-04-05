@@ -1,6 +1,6 @@
 // write your code below!
-let name='Dan';
-let holiday='Easter';
+let name='you';
+let holiday='Independence Day';
 let days='20'
 function happyHolidays(string){
   return "Happy holidays!"
