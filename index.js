@@ -1,8 +1,5 @@
 // write your code below!
-
-var name = "Dan";
-var holiday = "Christmas";
-
+var name='Dan';
 function happyHolidays(string){
   return "Happy holidays!"
 }
