@@ -1,7 +1,7 @@
 // write your code below!
 let name='Dan';
 let holiday='Easter';
-let days='60'
+let days='20'
 function happyHolidays(string){
   return "Happy holidays!"
 }
